@@ -1,0 +1,3 @@
+[submodule "innotech"]
+	path = innotech
+	url = https://github.com/learnervivek/innotech.git
